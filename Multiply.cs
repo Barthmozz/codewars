@@ -1,6 +1,6 @@
 namespace Codewars
 {
-  public class CodewarsClass
+  public class MultiplyClass
   {
     public static int Multiply(int a, int b)
     {

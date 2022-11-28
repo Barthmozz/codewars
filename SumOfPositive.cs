@@ -1,6 +1,6 @@
 namespace Codewars
 {
-  public class CodewarsClass
+  public class PositiveSumClass
   {
     public static int PositiveSum(int[] arr)
     {
